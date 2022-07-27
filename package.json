@@ -1,0 +1,14 @@
+{
+  "name": "super-heros-and-villians-random-name-generator",
+  "version": "1.0.0",
+  "description": " This is a project in which it generates super hero and villian names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marvel-characters": "^1.0.3"
+  }
+}
